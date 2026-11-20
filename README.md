@@ -19,7 +19,7 @@ Mỗi notebook có một ô đầu tiên tự cài thư viện còn thiếu và 
 | Bài | Notebook |
 |---|---|
 | B1 | [CÁC GIẢ ĐỊNH CỦA HỒI QUY OLS VÀ HỒI QUY BÌNH PHƯƠNG TỐI THIỂU CÓ TRỌNG SỐ](https://colab.research.google.com/github/thanhmk/kinhteluong/blob/main/KTL%20T%C3%A0i%20ch%C3%ADnh/Module_2/B1_Gia_dinh_OLS_va_WLS.ipynb) |
-| B2 | [HỒI QUY VỮNG](https://colab.research.google.com/github/thanhmk/kinhteluong/blob/main/KTL%20T%C3%A0i%20ch%C3%ADnh/Module_2/B2_Hoi_quy_vung.ipynb) |
+| B2 | [HỒI QUY VỮNG - Robust regression](https://colab.research.google.com/github/thanhmk/kinhteluong/blob/main/KTL%20T%C3%A0i%20ch%C3%ADnh/Module_2/B2_Hoi_quy_vung.ipynb) |
 | B3 | [HỒI QUY PHẠT (PENALIZED REGRESSION)](https://colab.research.google.com/github/thanhmk/kinhteluong/blob/main/KTL%20T%C3%A0i%20ch%C3%ADnh/Module_2/B3_Hoi_quy_phat_Ridge_Lasso.ipynb) |
 | B4 | [HỒI QUY PHI THAM SỐ (NON-PARAMETRIC REGRESSION)](https://colab.research.google.com/github/thanhmk/kinhteluong/blob/main/KTL%20T%C3%A0i%20ch%C3%ADnh/Module_2/B4_Hoi_quy_phi_tham_so.ipynb) |
 
